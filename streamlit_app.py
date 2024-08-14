@@ -1,3 +1,9 @@
+pip install streamlit
+pip install pandas
+pip install plotly
+pip install openpyxl
+
+
 import pandas as pd
 import streamlit as st
 import plotly.express as px
